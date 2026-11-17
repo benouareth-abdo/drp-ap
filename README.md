@@ -57,6 +57,6 @@ with `python tools/build_colab*.py`.
 | `results/` | CSV outputs of the runs reported in the paper (main, fuzzy, improve, confirm)  | LaTeX source, figures and tables of the manuscript, highlights |
 
 ## Citation
-
+See `CITATION.cff`
 ## License
 MIT.
