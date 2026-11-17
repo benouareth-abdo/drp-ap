@@ -14,7 +14,7 @@ Initialization** (*Abdallah BENOUARETH*, Université Badji Mokhtar-Annaba).
 DRP-AP-SA is statistically indistinguishable from PCA-Part (Wilcoxon–Holm p = 1.0) and better than the
 Mahalanobis seeders. At equal Lloyd budget, restarts of greedy k-means++ reach the lowest SSE (best-of-10:
 Friedman rank 3.13 vs 12.53 for DRP-AP-SA). Axis arbitration helps on the generator built from the theorem, not
-on unrelated generators; no pre-split diagnostic predicts where it helps. See the paper in `paper/`.
+on unrelated generators; no pre-split diagnostic predicts where it helps.
 
 ## Install
 ```bash
