@@ -9,7 +9,7 @@ description = "Directional-rank deficiency in k-means initialization: DRP-AP, DR
 readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
-authors = [{name = "[Author name]"}]
+authors = [{name = "[Abdallah BENOUARETH]"}]
 keywords = ["k-means", "initialization", "clustering", "PCA", "Mahalanobis"]
 dependencies = [
   "numpy>=1.24", "scipy>=1.11", "pandas>=2.0",
