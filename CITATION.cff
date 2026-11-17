@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the associated paper."
 title: "drp-ap: directional-rank deficiency in k-means initialization"
 authors:
-  - family-names: "[Family name]"
-    given-names: "[Given name]"
-    affiliation: "Université Badji Mokhtar-Annaba"
+  - family-names: "BENOUARETH"
+    given-names: "Abdallah"
+    affiliation: "LabGed Laboratory, Computer Science Departement, Badji Mokhtar-Annaba University"
 version: 0.1.0
 license: MIT
-repository-code: "https://github.com/[user]/drp-ap"
+repository-code: "https://github.com/benouareth-abdo/drp-ap"
