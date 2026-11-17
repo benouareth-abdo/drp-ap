@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the associated paper."
-title: "drp-ap: directional-rank deficiency in k-means initialization"
+title: "When Can PCA-Part and Mahalanobis Seeding Fail? Diagnosing Directional-Rank Deficiency in k-means
+Initialization"
 authors:
   - family-names: "BENOUARETH"
     given-names: "Abdallah"
