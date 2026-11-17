@@ -1,7 +1,7 @@
 # drp-ap
 
-Code for the paper **Directional-Rank Deficiency in k-means Initialization: Diagnosis and
-Equal-Budget Evaluation** (*[Author name]*, Université Badji Mokhtar-Annaba).
+Code for the paper **When Can PCA-Part and Mahalanobis Seeding Fail? Diagnosing Directional-Rank Deficiency in k-means
+Initialization** (*Abdallah BENOUARETH*, Université Badji Mokhtar-Annaba).
 
 * **DRP-AP**: *Directional-Rank-Profile Adaptive Partitioning*, a divisive initializer that switches between
   partitioning modes according to the measured directional rank.
@@ -54,11 +54,9 @@ with `python tools/build_colab*.py`.
 | `drp_ap/fuzzy.py`, `fuzzy_experiments.py` | F-DRP-AP-SA and fuzzy c-means experiments |
 | `drp_ap/data.py`, `synthetic.py` | real datasets (30 + 17 confirmation) and synthetic generators |
 | `drp_ap/metrics.py`, `stats.py`, `diagnostics.py`, `tuning.py` | metrics, Friedman/Nemenyi/Wilcoxon–Holm, diagnostics, LODO tuning |
-| `results/` | CSV outputs of the runs reported in the paper (main, fuzzy, improve, confirm) |
-| `paper/` | LaTeX source, figures and tables of the manuscript, highlights |
+| `results/` | CSV outputs of the runs reported in the paper (main, fuzzy, improve, confirm)  | LaTeX source, figures and tables of the manuscript, highlights |
 
 ## Citation
-See `CITATION.cff`. Replace the placeholders `[Author name]` and `[user]` before publishing.
 
 ## License
 MIT.
