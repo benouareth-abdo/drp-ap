@@ -1,0 +1,75 @@
+[DRP-AP] P1 (mono): p(worse than PCA-Part)=1 -> not refuted
+[DRP-AP] P2 (r=2,ratio=0.2): p(better than PCA-Part)=0.687 -> n.s. (below threshold)
+[DRP-AP] P2 (r=2,ratio=0.5): p(better than PCA-Part)=1 -> n.s. (below threshold)
+[DRP-AP] P2 (r=2,ratio=0.8): p(better than PCA-Part)=0.0249 -> supported
+[DRP-AP] P2 (r=2,ratio=0.95): p(better than PCA-Part)=0.0114 -> supported
+[DRP-AP] P2 (r=3,ratio=0.2): p(better than PCA-Part)=0.825 -> n.s. (below threshold)
+[DRP-AP] P2 (r=3,ratio=0.5): p(better than PCA-Part)=0.556 -> n.s. (below threshold)
+[DRP-AP] P2 (r=3,ratio=0.8): p(better than PCA-Part)=0.0053 -> supported
+[DRP-AP] P2 (r=3,ratio=0.95): p(better than PCA-Part)=0.221 -> NOT supported
+[DRP-AP] P2 (r=5,ratio=0.2): p(better than PCA-Part)=0.882 -> n.s. (below threshold)
+[DRP-AP] P2 (r=5,ratio=0.5): p(better than PCA-Part)=0.851 -> n.s. (below threshold)
+[DRP-AP] P2 (r=5,ratio=0.8): p(better than PCA-Part)=0.136 -> NOT supported
+[DRP-AP] P2 (r=5,ratio=0.95): p(better than PCA-Part)=0.484 -> NOT supported
+[DRP-AP] P3 SSE (kappa=100): p(better than k-means++ MD)=2e-05
+[DRP-AP] P3 SSE (kappa=10000): p(better than k-means++ MD)=6.59e-05
+[DRP-AP] P3 SSE (kappa=1e+06): p(better than k-means++ MD)=2e-05
+[DRP-AP] small-sample (d=100,n=1000): p(worse than PCA-Part)=0.000105  <- significantly worse
+[DRP-AP] small-sample (d=100,n=120): p(worse than PCA-Part)=2.86e-07  <- significantly worse
+[DRP-AP] small-sample (d=100,n=200): p(worse than PCA-Part)=2.99e-06  <- significantly worse
+[DRP-AP] small-sample (d=20,n=200): p(worse than PCA-Part)=0.0524
+[DRP-AP] small-sample (d=20,n=24): p(worse than PCA-Part)=0.00128  <- significantly worse
+[DRP-AP] small-sample (d=20,n=40): p(worse than PCA-Part)=6.09e-06  <- significantly worse
+[DRP-AP] small-sample (d=50,n=100): p(worse than PCA-Part)=9.31e-10  <- significantly worse
+[DRP-AP] small-sample (d=50,n=500): p(worse than PCA-Part)=8.2e-08  <- significantly worse
+[DRP-AP] small-sample (d=50,n=60): p(worse than PCA-Part)=1.86e-09  <- significantly worse
+[DRP-AP-SA] P1 (mono): p(worse than PCA-Part)=1 -> not refuted
+[DRP-AP-SA] P2 (r=2,ratio=0.2): p(better than PCA-Part)=0.101 -> n.s. (below threshold)
+[DRP-AP-SA] P2 (r=2,ratio=0.5): p(better than PCA-Part)=0.972 -> n.s. (below threshold)
+[DRP-AP-SA] P2 (r=2,ratio=0.8): p(better than PCA-Part)=1.52e-05 -> supported
+[DRP-AP-SA] P2 (r=2,ratio=0.95): p(better than PCA-Part)=0.000147 -> supported
+[DRP-AP-SA] P2 (r=3,ratio=0.2): p(better than PCA-Part)=0.991 -> n.s. (below threshold)
+[DRP-AP-SA] P2 (r=3,ratio=0.5): p(better than PCA-Part)=0.998 -> n.s. (below threshold)
+[DRP-AP-SA] P2 (r=3,ratio=0.8): p(better than PCA-Part)=0.665 -> NOT supported
+[DRP-AP-SA] P2 (r=3,ratio=0.95): p(better than PCA-Part)=0.00158 -> supported
+[DRP-AP-SA] P2 (r=5,ratio=0.2): p(better than PCA-Part)=0.768 -> n.s. (below threshold)
+[DRP-AP-SA] P2 (r=5,ratio=0.5): p(better than PCA-Part)=0.226 -> n.s. (below threshold)
+[DRP-AP-SA] P2 (r=5,ratio=0.8): p(better than PCA-Part)=0.841 -> NOT supported
+[DRP-AP-SA] P2 (r=5,ratio=0.95): p(better than PCA-Part)=0.00019 -> supported
+[DRP-AP-SA] P3 SSE (kappa=100): p(better than k-means++ MD)=2e-05
+[DRP-AP-SA] P3 SSE (kappa=10000): p(better than k-means++ MD)=6.59e-05
+[DRP-AP-SA] P3 SSE (kappa=1e+06): p(better than k-means++ MD)=2e-05
+[DRP-AP-SA] small-sample (d=100,n=1000): p(worse than PCA-Part)=0.436
+[DRP-AP-SA] small-sample (d=100,n=120): p(worse than PCA-Part)=0.313
+[DRP-AP-SA] small-sample (d=100,n=200): p(worse than PCA-Part)=0.159
+[DRP-AP-SA] small-sample (d=20,n=200): p(worse than PCA-Part)=0.95
+[DRP-AP-SA] small-sample (d=20,n=24): p(worse than PCA-Part)=0.163
+[DRP-AP-SA] small-sample (d=20,n=40): p(worse than PCA-Part)=0.0849
+[DRP-AP-SA] small-sample (d=50,n=100): p(worse than PCA-Part)=0.185
+[DRP-AP-SA] small-sample (d=50,n=500): p(worse than PCA-Part)=0.265
+[DRP-AP-SA] small-sample (d=50,n=60): p(worse than PCA-Part)=0.612
+[DRP-AP-SA (T=0)] P1 (mono): p(worse than PCA-Part)=1 -> not refuted
+[DRP-AP-SA (T=0)] P2 (r=2,ratio=0.2): p(better than PCA-Part)=1 -> n.s. (below threshold)
+[DRP-AP-SA (T=0)] P2 (r=2,ratio=0.5): p(better than PCA-Part)=1 -> n.s. (below threshold)
+[DRP-AP-SA (T=0)] P2 (r=2,ratio=0.8): p(better than PCA-Part)=5.61e-05 -> supported
+[DRP-AP-SA (T=0)] P2 (r=2,ratio=0.95): p(better than PCA-Part)=0.000219 -> supported
+[DRP-AP-SA (T=0)] P2 (r=3,ratio=0.2): p(better than PCA-Part)=0.605 -> n.s. (below threshold)
+[DRP-AP-SA (T=0)] P2 (r=3,ratio=0.5): p(better than PCA-Part)=0.416 -> n.s. (below threshold)
+[DRP-AP-SA (T=0)] P2 (r=3,ratio=0.8): p(better than PCA-Part)=0.243 -> NOT supported
+[DRP-AP-SA (T=0)] P2 (r=3,ratio=0.95): p(better than PCA-Part)=0.0418 -> supported
+[DRP-AP-SA (T=0)] P2 (r=5,ratio=0.2): p(better than PCA-Part)=0.718 -> n.s. (below threshold)
+[DRP-AP-SA (T=0)] P2 (r=5,ratio=0.5): p(better than PCA-Part)=0.106 -> n.s. (below threshold)
+[DRP-AP-SA (T=0)] P2 (r=5,ratio=0.8): p(better than PCA-Part)=0.269 -> NOT supported
+[DRP-AP-SA (T=0)] P2 (r=5,ratio=0.95): p(better than PCA-Part)=0.639 -> NOT supported
+[DRP-AP-SA (T=0)] P3 SSE (kappa=100): p(better than k-means++ MD)=2e-05
+[DRP-AP-SA (T=0)] P3 SSE (kappa=10000): p(better than k-means++ MD)=6.59e-05
+[DRP-AP-SA (T=0)] P3 SSE (kappa=1e+06): p(better than k-means++ MD)=2e-05
+[DRP-AP-SA (T=0)] small-sample (d=100,n=1000): p(worse than PCA-Part)=0.65
+[DRP-AP-SA (T=0)] small-sample (d=100,n=120): p(worse than PCA-Part)=0.0455  <- significantly worse
+[DRP-AP-SA (T=0)] small-sample (d=100,n=200): p(worse than PCA-Part)=0.114
+[DRP-AP-SA (T=0)] small-sample (d=20,n=200): p(worse than PCA-Part)=0.187
+[DRP-AP-SA (T=0)] small-sample (d=20,n=24): p(worse than PCA-Part)=0.275
+[DRP-AP-SA (T=0)] small-sample (d=20,n=40): p(worse than PCA-Part)=0.061
+[DRP-AP-SA (T=0)] small-sample (d=50,n=100): p(worse than PCA-Part)=0.361
+[DRP-AP-SA (T=0)] small-sample (d=50,n=500): p(worse than PCA-Part)=0.514
+[DRP-AP-SA (T=0)] small-sample (d=50,n=60): p(worse than PCA-Part)=0.253

@@ -1,0 +1,9 @@
+{
+ "lodo": 1.010592363016553,
+ "fixed_default": 1.008370668447694,
+ "reference": 1.0074753280815676,
+ "oracle": 1.0,
+ "global_best_in_sample": "SA[T=5,q=1]",
+ "wilcoxon_p_lodo_vs_fixed_default": 0.7775646168566407,
+ "wilcoxon_p_lodo_vs_reference": 0.5485062355001472
+}
